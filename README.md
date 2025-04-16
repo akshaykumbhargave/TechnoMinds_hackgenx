@@ -16,3 +16,6 @@ We also do text classification to give suggestion as repair/dispose for that we 
 [User_Input.csv](https://github.com/user-attachments/files/19777684/User_Input.csv) and below is my colab link that work i had be done till now 
 https://colab.research.google.com/drive/1OIpFVmSvf9jV1WtH67BlKgWR5BbGde_A?usp=sharing 
 Now our task 2 is doing our model trained according to suggestions.
+
+
+I have completed my Frontend of Welcome Login/SignUp Page.
