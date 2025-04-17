@@ -6,7 +6,7 @@ The above colaboratory is in progress and it checks for epochs
 
 My dataset link of image datasets   https://drive.google.com/file/d/17PlBI7Ol0u91buiRqa1am_OV3JWcrBRH/view?usp=drive_link
 
-My prot.io link and its exported .pdf for sample project how it will be:
+My prot.io link and its exported .pdf of dummy model is provided below:
 https://pr.to/7Y80QL/
 [_EcoBot.pdf](https://github.com/user-attachments/files/19777446/_EcoBot.pdf)
 
