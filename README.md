@@ -175,4 +175,31 @@ body {
   .login-btn:hover {
     background-color: #2e7d32;
   }
-  
+
+
+  Recycle-Hub Frontend:
+![WhatsApp Image 2025-04-14 at 01 37 40_71dd84ef](https://github.com/user-attachments/assets/27e2a3fa-5bf2-444a-89bd-b05b1ea2e9de)
+![WhatsApp Image 2025-04-14 at 01 47 43_a556fab9](https://github.com/user-attachments/assets/0037e5cc-6f39-4d61-8c6a-09e95f5039d0)
+
+ Shopkeeper Dashboard:
+
+![WhatsApp Image 2025-04-14 at 00 47 28_489aeb48](https://github.com/user-attachments/assets/6f277d26-9c63-4c62-b63d-7c3f08986f80)
+![WhatsApp Image 2025-04-14 at 01 14 01_a64ca0e2](https://github.com/user-attachments/assets/eff5c559-ad89-44be-9ce6-9fe82420ac19)
+![WhatsApp Image 2025-04-13 at 19 54 54_b1aca719](https://github.com/user-attachments/assets/d7ad834f-7a50-46db-83ae-f3ada1899881)
+
+Admin Dashboard :
+
+![WhatsApp Image 2025-04-17 at 12 17 08_73015ff6](https://github.com/user-attachments/assets/6ee38aa3-accc-450a-b0c3-bb64f2ae12c6)
+
+![WhatsApp Image 2025-04-17 at 12 16 38_47b8e9f8](https://github.com/user-attachments/assets/3cfe1eac-31c7-494a-8caa-606b14dcd2e4)
+
+![WhatsApp Image 2025-04-17 at 12 17 43_f6a3b14a](https://github.com/user-attachments/assets/d08198ed-b78d-44eb-a62e-406caf39dd30)
+
+
+
+
+
+
+
+
+
